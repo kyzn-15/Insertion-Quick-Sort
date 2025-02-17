@@ -1,3 +1,1 @@
-# Guiz-Game
-# Insertion-Quick-Sort
-# Insertion-Quick-Sort
+# Insertion and Quick Sort Kevin Wilbert Johan 11 IPA 1
